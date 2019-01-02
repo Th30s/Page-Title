@@ -1,0 +1,32 @@
+.name{
+    background: blue;
+    text-align: center;
+    border: green ridge 25px;
+    }
+.call{
+    background: red;
+    border: white groove 50px;
+    }
+.button{
+    border: solid black 5px;
+    display:flex;
+    Justify-content:center;
+    }    
+.button:hover{
+    background: yellow;
+    border: ridge blue 15px;
+    }    
+.photos{
+    border: solid black 15px;
+    display:flex;
+    justify-content: space-around;
+    }
+img{
+    width: 40%;
+    height: 40%;
+    }   
+.headingtwo{
+    display:flex;
+    justify-content:space-between;
+    border: outset red 15px;
+    }    
